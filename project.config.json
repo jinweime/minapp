@@ -1,0 +1,11 @@
+{
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"appid": "tt9dd5eb6802ef9722",
+	"projectname": "loveApp"
+}

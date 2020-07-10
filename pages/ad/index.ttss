@@ -1,0 +1,105 @@
+.intro {
+  text-align: center;
+  height:100vh;
+  padding-top: 100px;
+  width:100%;
+  background: url('https://imgkr.cn-bj.ufileos.com/dad7c71b-8b5e-4295-9b8d-052351b75fda.png');
+}
+
+
+.view2 {
+  background-color: white;
+  height:300px;
+  width:100vh;
+}
+
+
+.tv-tit3{
+  margin-top: 10px;;
+  color: aquamarine;
+  font-size: 25px;
+}
+
+.tv-tit4{
+  margin-left: 8px;
+  margin-right: 8px;;
+  color:red;
+  font-size: 17px;
+  margin-top: 10px;
+}
+
+.ed-tit{
+  margin-top: 3px;
+  border-radius: 8px;
+  background-color:cornsilk;
+  margin: 0 auto;
+  color: black;
+  width: 80%;
+  height: 45px;
+  
+}
+
+
+.vTitle {
+ display: flex;
+}
+
+.buton{
+  margin: 20px
+}
+
+.topimg{
+  height:100vh;
+  width:100vh;
+ 
+}
+
+.textTitle{
+  font-size: 37px;
+  color: white;
+  text-shadow: 2px; 
+  font-weight: bold;
+}
+
+.textTitle2{
+  font-size: 20px;
+  color: white
+}
+
+.textContext{
+  font-size: 30px;
+  color: white
+}
+
+.ad{
+position:fixed; 
+bottom:0; 
+width: 100vh;
+}
+
+
+
+
+.flex-wrapper {
+  height:300px;
+  padding-top: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  width:90%;
+  margin: 0 auto;
+  border-radius: 6px;
+  background-color: #ffffff;
+}
+.flex-item {
+  width: 200rpx;
+  height: 300rpx;
+  font-size: 26rpx;
+}
+.flex-item.hover {
+  background: green;
+}
+.flex-item-V {
+  margin: 0 auto;
+  width: 300rpx;
+  height: 200rpx;
+}

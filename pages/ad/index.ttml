@@ -1,0 +1,35 @@
+<view class="intro" >
+    
+ 
+   
+   
+     <view hidden='{{contextHide}}' class="flex-wrapper" style="flex-direction:column;">
+
+
+       <view>
+       
+       <text class="tv-tit3" style="margin-top:8px;" >评测结果</text>
+       </view>
+      
+
+      <view  style="margin-top:3px;" style="margin-top:8px;"> 
+       <text class="tv-tit4">{{content}}</text>
+      </view>
+
+
+
+
+   <!-- <view class="flex-wrapper" >
+       
+    </view> -->
+
+  <!--基础示例-->
+<!-- <view class="ad">
+  <ad
+    unit-id="1rqr7x0xxa227i3g6i "
+    bindload="adloadhandler"
+    binderror="aderrorhandler"
+    bindclose="adclosehandler"
+  ></ad> -->
+
+</view>

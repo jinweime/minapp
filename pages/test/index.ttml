@@ -1,0 +1,20 @@
+<view class="intro" >
+    
+ 
+
+
+    <view><text class="textTitle">情感心理测试</text></view
+    <view><text class="textTitle2">测一测你一生中有几个人爱你</text>
+
+    
+          <input class="input" placeholder="输入您的姓名"/>
+
+    <view>
+
+        <button  class="buton" type="primary" size="default" bindtap="startTest">立即测试 </button>
+   </view>
+
+   <view class="ad">
+
+</view>
+</view>

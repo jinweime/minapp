@@ -1,0 +1,57 @@
+<view class="intro" >
+    
+ 
+
+
+   
+   
+     <view class="flex-wrapper" style="flex-direction:column;">
+
+
+       <view>
+       
+       <text class="tv-tit3" style="margin-top:8px;">姓名配对测试</text>
+       </view>
+      
+
+      <view style="margin-top:3px;" style="margin-top:8px;"> 
+       <text class="tv-tit4">姓名的每一笔一画的都暗藏着某些缘分和姻缘，你和TA的姓名有三才五行，蘊含着許多的緣分配對信息</text>
+      </view>
+
+
+  <form catchsubmit="formSubmit" catchreset="formReset">
+  
+
+    <view style="margin-top:8px;">
+      
+      <input class="ed-tit" name="name1" type="" placeholder="请输入你的姓名" />
+      
+      </view>
+
+      <view style="margin-top:8px;">
+      <input class="ed-tit" type="" name="name2" placeholder="请输入你的姓名" />
+      </view>
+
+       <view animation="{{animationData}}"  >
+           <button formType="submit"  class="buton" type="primary" size="default" >立即测试 </button>
+       </view>
+  </form>
+    
+</view>
+    
+
+
+   <!-- <view class="flex-wrapper" >
+       
+    </view> -->
+
+  <!--基础示例-->
+<!-- <view class="ad">
+  <ad
+    unit-id="1rqr7x0xxa227i3g6i "
+    bindload="adloadhandler"
+    binderror="aderrorhandler"
+    bindclose="adclosehandler"
+  ></ad> -->
+
+</view>
